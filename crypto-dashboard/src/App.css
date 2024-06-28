@@ -1,0 +1,17 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #e3a2a2;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #b93b3b;
+}
